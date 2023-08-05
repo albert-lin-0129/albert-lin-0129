@@ -1,7 +1,7 @@
 ## Hi there 👋 This is Albert
 
 ### 👨🏻‍💻
-- 📫 Blog : [My Github Gist]()
+- 📫 Blog : [My Github Gist](https://gist.github.com/albert-lin-0129)
 <!--
 **albert-lin-0129/albert-lin-0129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
